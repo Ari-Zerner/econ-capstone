@@ -1,0 +1,17 @@
+Type,Role,G2A,G2B,G3A,G3B,G4A,G4B,G4C,G4D,G5A,G5B,G6A,G6B,G7A,G7B,G8A,G8B,G9A,G9B
+Altruistic,R,T,B,B,T,T,B,T,B,T,T,B,T,B,T,M,T,T,T
+Altruistic,C,L,L,R,R,R,L,R,R,L,L,L,M,M,M,R,R,R,L
+Pessimistic,R,B,T,B,T,T,M,B,T,M,B,B,T,B,T,M,T,B,T
+Pessimistic,C,L,L,L,L,L,R,R,M,L,L,R,R,M,M,R,R,R,R
+Naive,R,B,T,B,T,T,B,B,T,M,B,B,T,B,T,B,B,B,T
+Naive,C,L,L,L,L,L,R,R,R,L,L,R,R,L,L,R,R,R,R
+L2,R,B,T,T,B,B,T,B,T,M,B,T,B,T,B,B,B,B,B
+L2,C,R,R,L,L,L,R,L,L,R,R,R,R,L,L,L,L,L,R
+D1,R,B,T,T,B,B,T,B,T,M,B,T,B,B,T,B,B,B,B
+D1,C,R,R,L,L,L,R,L,L,R,R,R,R,L,L,R,R,L,R
+D2,R,B,T,T,B,B,T,B,T,B,M,T,B,B,T,B,B,B,B
+D2,C,R,R,L,L,L,R,L,L,R,R,M,L,L,L,R,R,L,R
+Equilibrium,R,B,T,T,B,B,T,B,T,B,M,T,B,T,B,T,M,B,B
+Equilibrium,C,R,R,L,L,L,R,L,L,R,R,M,L,R,R,L,L,L,R
+Sophisticated,R,B,T,T,B,B,T,B,T,M,B,T,B,T,B,B,B,B,B
+Sophisticated,C,R,R,L,L,L,R,L,L,R,R,M,R,L,L,L,L,L,R
